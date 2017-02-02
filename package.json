@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepnagarro/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sandeep goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepnagarro/test/issues"
+  },
+  "homepage": "https://github.com/sandeepnagarro/test#readme"
+}
